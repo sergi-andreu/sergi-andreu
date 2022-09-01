@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
-<h3 align="center">A passionate Machine Learning and Data Science enthusiast from Spain</h3>
+<h3 align="center">I have a background in Physics, Mathematics and Scientific Computing. I am a passionate Machine Learning and Data Science enthusiast from Spain</h3>
 
-- 📫 How to reach me **sergiandreu97@gmail.com**
+Most of the codes and implementations I have made have been done for external companies, and the repositories are private and hosted by them.
+Here are a few repositories I have used and developed, mostly for some of the courses I have taken. Unfortunately, they are poorly documented.
+
+
+
+- 📫 You can reach me by **sergiandreu97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
