@@ -6,7 +6,7 @@ Here are a few repositories I have used and developed, mostly for some of the co
 
 
 
-- 📫 You can reach me by **sergiandreu97@gmail.com**
+- 📫 You can reach me by **sergi.andreu.boix@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
