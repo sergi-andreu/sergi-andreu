@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
-<h3 align="center">I have a background in Physics, Mathematics and Scientific Computing. I am a passionate Machine Learning and Data Science enthusiast from Spain</h3>
+<h3 align="center">I have a background in Physics, Mathematics and Scientific Computing. <br>
+  I am a passionate Machine Learning and Data Science enthusiast from Spain</h3>
 
 Unfortunately, most of the codes and implementations I have made have been done for external companies, and the repositories are private and hosted by them.
 Here are a few repositories I have used and developed, mostly for some of the courses I have taken. They are poorly documented; I will try to work on that! 😊
