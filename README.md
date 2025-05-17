@@ -17,7 +17,7 @@ However, I occasionally share small projects, coursework, and experiments here.
 - Evaluation methods
 - Causal Inference
 - Reinforcement Learning
-- LLM-based systems (LangGraph, AWS, Terraform)  
+- LLM-based systems   
 
 📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sergi-andreu/)
 - 📫 You can reach me by **sergi.andreu.boix@gmail.com**
