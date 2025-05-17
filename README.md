@@ -6,7 +6,7 @@
 I'm a Machine Learning Engineer with a strong foundation in **Physics, Mathematics, and Scientific Computing**. 
 Currently based in Spain, I work at the intersection of **Data Science, Machine Learning, and AI engineering**.
 
-Most of my professional work—ranging from LLM-powered assistants to Retrieval-Augmented Generation systems—has been developed for companies, and remains private due to confidentiality. 
+Most of my professional work—ranging from Data Science (EDAs, training models, evaluation pipelines, ...) to LLM-powered assistants—has been developed for companies, and remains private due to confidentiality. 
 However, I occasionally share small projects, coursework, and experiments here. 
 
 📌 **Disclaimer**: Repositories on this profile are side projects or coursework—some are not fully documented (yet). Improving that is on my to-do list!
